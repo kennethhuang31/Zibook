@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7e1103a-08f4-46dd-b1bb-4c1fe4553b74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/renderer/assets/dict-zi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/assets/dict-zi.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/assets/word.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/features/HomePage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/features/HomePage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/store/modules/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/store/modules/Counter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/assets/dict-zi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/assets/word.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +89,8 @@
       <workItem from="1599968175583" duration="1687000" />
       <workItem from="1601840135763" duration="2343000" />
       <workItem from="1601876851820" duration="5980000" />
-      <workItem from="1601890730454" duration="3701000" />
+      <workItem from="1601890730454" duration="3931000" />
+      <workItem from="1601895998826" duration="47000" />
     </task>
     <servers />
   </component>
