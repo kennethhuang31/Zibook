@@ -34,7 +34,7 @@
         margin: 0 2rem 2rem 2rem;
         "
       >
-        <img v-if="selectedWord && selectedWord !== lastSelectedWord" :src="'https://www.hanzi5.com/assets/bishun/animation/' + selectedWord + '-bishun.gif'" :alt="selectedWord">
+        <img v-if="selectedWord && selectedWord !== lastSelectedWord" :src="'http://www.hanzi5.com/assets/bishun/animation/' + selectedWord + '-bishun.gif'" :alt="selectedWord">
       </div>
       <div style="height: 80vh; overflow-y: auto;" @click="onClick($event)" @mouseup="onSelection" v-html="htmlCode" />
     </div>
